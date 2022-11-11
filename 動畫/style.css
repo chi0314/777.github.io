@@ -1,0 +1,30 @@
+body{font-size:25px;
+background-color: rgb(194, 149, 236);}
+
+h1{text-align: center;
+   font-size: 40px;
+   padding: 80px;
+}
+img{
+    width: 100%;
+    padding: 10px;
+
+}
+
+.box{
+    display: grid;
+    grid-template-columns: 1fr 1fr ;
+    grid-gap: 30px;
+    background-color: lightgray;
+    margin:30px 80px 30px 80px;
+}
+
+a{
+    text-decoration: none;
+    color: brown;
+    
+
+
+}
+
+
